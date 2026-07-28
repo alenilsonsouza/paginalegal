@@ -1,2 +1,8 @@
-# Página Legal com Alenilson Souza 4
-A página está cada vez mais atraente e customizável na prática.
+# Página Legal com Alenilson Souza 
+A página legal é um site de teste brasileiro desenvolvido por Alenilson Souza.
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
